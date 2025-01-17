@@ -25,6 +25,7 @@ public class FindPrime{
     public static void main(String[] args){
         FindPrime H = new FindPrime();
         H.getNum();
-        System.out.println(H.isPrime());
+        H.isPrime();
+        //System.out.println(H.isPrime());
     }
 }

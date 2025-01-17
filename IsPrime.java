@@ -36,6 +36,7 @@ public class IsPrime{
     public static void main(String[] args){
         IsPrime H = new IsPrime();
         H.getNum();
-        System.out.println(H.isPrime());
+        H.isPrime();
+        //System.out.println(H.isPrime());
     }
 }

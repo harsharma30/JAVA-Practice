@@ -1,0 +1,40 @@
+variable = 1
+variable = 2
+variable = 3
+
+switch(variable){
+case 1: statement for true;
+sop("hi");
+case 2: statement for true;
+sop("Hello");
+case 3: statement for true;
+sop("welcome");
+break;
+default:
+sop("oh no");
+}
+
+
+types of loop:
+-> entry control loop:
+	for loop, while loop, 
+-> exit control loop:
+	do.. while loop, 
+-> while loop
+
+
+
+for loop:
+-> for(initialization; condition; loop counter updation);
+-> for(initialization; condition; loop counter){}
+-> int i= 10;
+	for(; condition; loop counter){}
+-> int i= 10;
+	for(; ; loop counter){
+	condition;
+	}
+-> int i= 10;
+	for(; ; ){
+	condition;
+	i++;
+	}
