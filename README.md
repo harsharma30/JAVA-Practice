@@ -16,15 +16,6 @@ This space is dedicated to enhancing my Java programming skills by solving daily
 
 ---
 
-## 🖼️ Visual Preview  
-Here's a sneak peek into the structure of this repository:  
-
-![Repository Overview](https://via.placeholder.com/800x400?text=Repository+Overview)  
-
-Example of code in action:  
-![Java Code Example](https://via.placeholder.com/800x400?text=Java+Code+Snippet)  
-
----
 
 ## 🤝 Let's Collaborate!  
 Have suggestions or improvements? Feel free to contribute by opening a pull request or dropping an issue! 🙌  
