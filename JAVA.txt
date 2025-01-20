@@ -38,3 +38,19 @@ for loop:
 	condition;
 	i++;
 	}
+
+
+-> for input in non void method
+	int num1=InputData.getData("Enter the number: ");
+
+-> How to debug Java code
+step1: make  a starting point o your debug application
+step2: run-> debug as -> java application
+
+shortcut F7
+
+======================String in JAVA=======================>
+What is String?
+
+if you find string and String in your java code, how you will explain without known alot..
+
