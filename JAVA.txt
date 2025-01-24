@@ -54,3 +54,44 @@ What is String?
 
 if you find string and String in your java code, how you will explain without known alot..
 
+=====================Access Scope==========================>
+1. WithinClass
+	-> private
+	-> protected
+	-> default
+	-> public
+
+2. ChildClass
+	-> no private 
+	-> protected
+	-> default
+	-> public
+
+3. NonChildClass but same package
+	-> no private 
+	-> no protected
+	-> default
+	-> public
+
+4. ChildClass but diff package
+	-> no private 
+	-> protected
+	-> no default
+	-> public
+
+5. NonChildClass but diff package
+	-> no private 
+	-> no protected
+	-> no default
+	-> public
+
+
+======================Polymorphism in JAVA===================>
+When we are creating more then one method have same name but different parameters may be with in the same class or child class is known as polymorphism.
+1. Compile time polymorphism
+	Same class having more than one method having same name but diff parameters.
+
+2. Run time polymorphism
+	We can achieve by maintaining parent child relation
+	
+3. Pure runtime polymorphism
